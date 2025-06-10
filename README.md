@@ -84,6 +84,15 @@ He estudiado herramientas como **ZBrush, Substance, Maya** y quiero especializar
 
 ---
 
+## 📚 ¿Buscas mis cursos con descuento especial?
+
+Tengo una lista siempre actualizada con **ofertas exclusivas** para mis cursos de programación en Udemy.  
+📎 [Ver promociones aquí](https://docs.google.com/document/d/1bK-QF9t-dTrcOOumX2xSKm9QfIWALupxNncdROTmi8I/edit?tab=t.0#heading=h.ipu811jv4btc)
+
+*¡Actualizado constantemente y sin intermediarios!*
+
+---
+
 > ¡Gracias por visitar mi perfil! Si te gusta aprender, programar o crear cosas increíbles, seguro nos llevaremos bien. 🚀  
 > ¡Estoy aquí para compartir, inspirar y seguir creciendo junto a esta gran comunidad tech! 💙
 
