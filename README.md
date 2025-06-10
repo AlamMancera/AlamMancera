@@ -13,31 +13,78 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Encabezado / banner -->
+![banner](https://pbs.twimg.com/profile_banners/1044803096247824384/1712182069/1500x500)
+
 # ¡Hola, soy Alam Mancera! 👋
 
-Soy un apasionado profesor online, desarrollador de software, y entusiasta de los videojuegos. Actualmente, me sumerjo en el fascinante mundo de la programación enfocandome principalmente en C#, Visual Studio y .NET. Mi objetivo es enseñar de la mejor manera posible los temas que amo y, en el futuro, desarrollar videojuegos.
+> *"Pobres de aquellos que solo sueñan dormidos"* 🌙
 
-## 💼 Experiencia Profesional
+Soy un apasionado **profesor online**, **desarrollador de software**, **artista 3D en formación** y amante del **kickboxing** y los videojuegos. Me encanta compartir lo que aprendo y enseñar de forma clara, divertida y efectiva. Actualmente me enfoco en tecnologías como **C#, .NET, Unity, Flutter y herramientas de modelado 3D** como **ZBrush, Substance y Maya**.
 
-- **Profesor Online** en Udemy - Creo guiones educativos y grabo videos para facilitar el aprendizaje de la programación.
-- **Desarrollador de Software** - Trabajo en proyectos emocionantes utilizando C#, Visual Studio y .NET.
+---
 
-## 🚀 Proyectos Destacados
+## 💼 ¿A qué me dedico?
 
-- **C# Curso Completo para ser programador .NET** - El mejor curso en español que podrás encontrar para aprender C# [Aquí](https://www.linkedin.com/in/alammancera/)
+🎓 **Profesor en Udemy**  
+Creador del curso “[C# Curso Completo para ser programador .NET](https://www.udemy.com/course/curso-completo-csharp/)” — uno de los más populares en español.  
+Ya somos más de **18,000 estudiantes** 💪
 
-## 🎮 Amor por los Videojuegos
+💻 **Desarrollador de software y apps móviles**  
+Actualmente aprendiendo **Flutter** para desarrollo multiplataforma.
 
-Cuando no estoy codificando o enseñando en Udemy, me sumerjo en el mundo de los videojuegos. ¿Mi favorito? R= Bully.
+🎮 **Aspirante a desarrollador de videojuegos y artista 3D**  
+He estudiado herramientas como **ZBrush, Substance, Maya** y quiero especializarme como **3D Artist** para videojuegos.  
 
-## 🏋️‍♂️ Equilibrio entre Mente y Cuerpo
+---
 
-Además de mi amor por la tecnología, también soy un apasionado del ejercicio. Practicante de KickBoxing y ocasional asistente al gimnasio de pesas 😂.
+## 🚀 Tecnologías y herramientas
 
-## 📫 ¡Conéctate Conmigo!
+<div align="center">
+  
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![ZBrush](https://img.shields.io/badge/ZBrush-000000?style=for-the-badge)
+![Maya](https://img.shields.io/badge/Autodesk%20Maya-1E90FF?style=for-the-badge)
+  
+</div>
 
-- **Twitter:** [@AlamMancera](https://twitter.com/AlamMancera)
-- **LinkedIn:** [Alam Mancera](https://www.linkedin.com/in/alammancera/)
+---
 
-¡Gracias por visitar mi perfil! Espero poder inspirarte y compartir contigo mi entusiasmo por la programación y los videojuegos. ¡Hagamos cosas increíbles juntos!
+## 📚 Proyectos y Cursos
+
+- 🎓 **Curso más exitoso en Udemy:**  
+  [C# Curso Completo para ser programador .NET](https://www.udemy.com/course/curso-completo-csharp/)  
+  Ideal si estás empezando y quieres aprender desde cero, con ejemplos claros y prácticos.
+
+- 🛠️ En desarrollo:  
+  **Nuevo curso de Programación Orientada a Objetos con C# y .NET**
+
+---
+
+## 👾 Sobre mí
+
+- 🧠 Estudio Ingeniería en Desarrollo de Software
+- 🥋 Cinta amarilla en Kickboxing
+- 🏋️ Asistente ocasional al gym (¡aunque lo intento!)
+- 🎮 Fan de *Bully (Canis Canem Edit)*
+- 🎤 Fan de *Luis Miguel* (¡sí, en serio! Viva el Sol de México☀️)
+
+---
+
+## 🌐 Encuéntrame en línea
+
+- 🐦 [Twitter / X](https://x.com/AlamMancera)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alammancera/)
+- 📺 [YouTube - Alam Mancera](https://www.youtube.com/c/AlamManceraCursDev)
+
+---
+
+> ¡Gracias por visitar mi perfil! Si te gusta aprender, programar o crear cosas increíbles, seguro nos llevaremos bien. 🚀  
+> ¡Estoy aquí para compartir, inspirar y seguir creciendo junto a esta gran comunidad tech! 💙
+
 
