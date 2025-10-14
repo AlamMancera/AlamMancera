@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Encabezado / banner -->
-![banner](https://pbs.twimg.com/profile_banners/1044803096247824384/1712182069/1500x500)
+![banner](https://pbs.twimg.com/profile_banners/1044803096247824384/1758928838/1500x500)
 
 # ¡Hola, soy Alam Mancera! 👋
 
